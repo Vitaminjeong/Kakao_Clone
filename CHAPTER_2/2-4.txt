@@ -1,0 +1,12 @@
+2-4 Our first HTML document
+
+<!DOCTYPE html> 문서가 html임을 알려줌
+<html>
+ <head> 유저에게는 보이지 않음
+  <title>This is my title</title>
+ </head>
+ <body> 사람들이 읽는 컨텐츠
+  <h1>This is my big title</h1> 가장 큼
+  <h6>This is my small title</h6> 가장 작음
+ </body>
+</html>

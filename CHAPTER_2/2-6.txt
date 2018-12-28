@@ -1,0 +1,17 @@
+2-6 Semantic vs Non Semantic Tags
+
+[semantic 태그] 의미가 있음
+ex 1)
+<h1>This is my big title</h1>
+ex 2)
+<header>This is an important header</header>
+
+=> 제목, 문단, 내비게이션 등의 뜻이 있는 태그
+[non-semantic 태그] 의미가 없음
+ex 1)
+<div>Whatever</div>
+ex 2)
+<span>something else</span>
+
+=> 무엇을 의미하는지 불분명함
+

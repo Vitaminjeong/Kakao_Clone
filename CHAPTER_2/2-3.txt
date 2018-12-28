@@ -1,0 +1,18 @@
+2-3. Anatomy of a HTML tag
+
+[태그의 형태]
+<이름 속성="값">내용</이름>
+<name attribute="value">Content</name>
+
+ex 1)
+<human gender="male">Human</human>
+ex 2)
+<dog breed="german_shepard">Dog</dog>
+
+<title>This is the title of the document</title>
+
+[링크를 넣고싶을 때]
+<a href="http://google.com">Go to google</a>
+
++ 새창에서 구글을 넣을 때
+<a href="http://google.com" target="_blank">Go to google</a>

@@ -1,0 +1,15 @@
+2-5 Adding meta information to our document
+
+<!DOCTYPE html>
+<html>
+ <head> 브라우저를 위한 정보 즉, 유저를 위한 정보는 아님
+  <meta charset="utf-8"> 브라우저에게작성하는 문서가 어떤 언어로 작성되었는지 알려줌
+  <meta name="author" content="Nomad Coders">
+  <meta name="description" content="Welcome to my Kakao Clone">
+  <title>This is my title</title>
+ </head>
+ <body>
+  <h1>This is my big title</h1>
+  <h6>This is my small title</h6>
+ </body>
+</html>

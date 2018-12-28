@@ -1,0 +1,45 @@
+2-7 Giving our tags a name (ID's and Classes)
+
+[각각의 이름을 구분하는 방법]
+ex)
+<section>
+ <header>
+  <h1>Title of a section</h1>
+ </header>
+<section>
+ <div>
+  <header>Title of the unknown container</header>
+ </div>
+
+=> header 구분이 어려움
+=> ID와 class를 사용
+
+ex)
+ <section>
+ <header id="headerNumberOne" class="defaultHeader">
+  <h1>Title of a section</h1>
+ </header>
+<section>
+ <div>
+  <header>Title of the unknown container</header>
+ </div>
+
+[ID]
+한 개만 갖을 수 있음
+=> 고유하기 때문이다.
+
+[class]
+동일한 속성이 있을 때마다 사용 즉, 반복될 수 있음
+=> 여러 개 존재 가능
+
+ex)
+<section>
+ <header id="headerNumberOne" class="defaultHeader">
+  <h1>Title of a section</h1>
+ </header>
+<section>
+ <div>
+  <header id="differentHeader" class="defaultHeader">
+  Title of the unknown container
+  </header>
+ </div>
