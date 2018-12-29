@@ -1,0 +1,38 @@
+1-2
+[New file]
+chat.html, chats.html, find.html, index.html, more.html, profile.html 생성
+
+[New folder]
+images, styles 생성
+
+1-3
+index.html 내용 채움
+=> 비행기, 와이파이, 시간, 달, 블루투스, 배터리 아이콘 생성
+
+1-4
+index.html 내용 추가
++ chat.html, chats.html, find.html, more.html, profile.html 내용 채움
+
+1-5
+index.html, chats.html, find.html, more.html 네비게이션 생성
+
+1-6
+index.html 내용 추가
+=> 친구목록, 검색 등의 기능 추가
+
+1-7
+chats.html 완성
+
+1-8
+find.html 완성
+
+1-9
+more.html 완성
+
+1-10
+chat.html 추가
+
+1-11
+chat.html, back page 추가
+
+=>완성
