@@ -1,0 +1,21 @@
+3-3 Mixing CSS with HTML
+
+[inline]
+html 파일에 원하는 속성을 적용함
+ex)
+<style>
+body{
+  background-color:red;
+}
+</style>
+
+=> 같은 배경색을 쓴다고 가정할 때,
+해당 CSS를 모든 html문서에 복사-붙여넣기를 해야한다는 단점이 있음
+=> 비효율적임
+
+[external]
+새로운 CSS 파일을 생성하여 속성을 적용함
+ex)
+<link href="styles.css" rel="stylesheet">
+
+=> inline의 단점을 보완

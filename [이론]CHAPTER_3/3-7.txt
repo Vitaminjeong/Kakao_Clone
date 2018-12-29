@@ -1,0 +1,23 @@
+3-7 Fluid layouts with Flexbox
+
+[Flex 만들기]
+플렉스를 사용할 때는 칠드런 박스에 적용하지 않음
+즉, 부모 클래스에만 적용하면 됨
+1. 부모(father) 클래스 생성
+2. 박스 생성 (디스플레이는 인라인-블록)
+3. 부모클래스를 플렉스 컨테이너로 변환
+
+플렉스 방향 row(디폴트) justify => 수평 / align => 수직
+            column justify => 수직 / align => 수평
+
+플렉스는 기본적으로 no wrap임
+즉, 폭은 무시한 상태에서 박스의 크기가 감소
+
+=> wrap하고 싶다면 flex-wrap:wrap; 사용
+
+flex-wrap:no-wrap-reverse;
+          wrap-reverse;
+	  column;
+	  column-reverse;
+	  row;
+	  row-reverse;

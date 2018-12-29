@@ -1,0 +1,7 @@
+3-8 CSS Selectors and Pseudo Selectors
+
+[가상 셀렉터]
+태그, class, id를 사용하지 않고 선택하는 방법
+
+input + .box => 형제
+input > .box => 직계

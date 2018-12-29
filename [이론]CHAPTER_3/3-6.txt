@@ -1,0 +1,9 @@
+3-6 Position property
+
+[포지션 4가지]
+1. Static - 디폴트값
+2. Relative - 부모박스
+3. Fixed - 오버랩하여 계속해서 그 위치에 고정
+4. Absolute - Fixed와 비슷하지만 스크롤을 했을 때 보이진 않음
+   relative(부모 박스)를 중심으로 위치를 고정시킴
+   => 상대적인 포지션 고정, relative가 없을 경우 본문(body)에 맞춰 고정됨

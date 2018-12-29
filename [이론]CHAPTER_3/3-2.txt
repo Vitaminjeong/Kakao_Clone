@@ -1,0 +1,18 @@
+3-2 CSS Syntax
+
+[CSS 파일 만들기]
+1. 우클릭
+2. new file
+3. 파일명.css + 엔터
+
+[Selctor]
+태그를 쓰고 괄호를 연뒤 property 넣기
+- 많은 양의 property를 사입할 수 있음
+- ID의 경우 #과 함께 사용
+- class의 경우 .과 함께 사용
+
+[property]
+property-name:value;
+- 무조건 소문자
+- 중간에 공백 없음.
+- value 뒤에 세미콜론

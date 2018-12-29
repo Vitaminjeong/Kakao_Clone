@@ -1,0 +1,10 @@
+3-9 Element States with CSS
+
+[.box:hover]
+박스 위에 올라가면 변화
+
+[.box:active]
+박스를 클릭하면 변화
+
+[.box:focus]
+가장 중요한 명령 위에 있던 명령들보다 우선시함
