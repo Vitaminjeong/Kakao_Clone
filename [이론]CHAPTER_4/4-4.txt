@@ -1,0 +1,26 @@
+4-4 Animations
+
+효과를 계속해서 생성하고 싶을 때 애니메이션을 생성함
+
+[사용방법]
+- 애니메이션 이름을 정함
+- 박스 안에 애니메이션 호출
+- 애니메이션 효과 지정
+
+=> hover, focus 등이 없어도 효과가 적용됨
+
+ex)
+.box{
+  width: 100px;
+  height: 100px;
+  background: red;
+  animation: 1.5s scaleAndRotateSquare infinite(무한대로 효과를 주고 싶을 때) ease-in-out;
+}
+@keyframes scaleAndRotateSquare {
+  from{
+    transform:none;
+  }
+  to{
+    transform: rotate(1turn) scale(.5, .5);
+  }
+}

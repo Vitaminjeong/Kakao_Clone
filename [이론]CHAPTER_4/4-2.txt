@@ -1,0 +1,17 @@
+4-2 Transitions
+
+[사용방법]
+변경대상(전체적인 변화를 위해서는 all 사용) 시간 효과
+
+ex)
+.box{
+  background-color: green;
+  color:white;
+  trasition:background-color 0.5s ease-in-out;
+}
+.box:focus{
+  background-color: red;
+  color:blue;
+}
+
+=> focus, active, hover에서 효과적으로 적용됨

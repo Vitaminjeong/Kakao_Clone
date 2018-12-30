@@ -1,0 +1,13 @@
+4-3 Transformations
+
+[사용방법]
+적용할 효과
+ex)
+.box{
+  width : 500px
+  height : 500px
+  background: red;
+  transform: skew(30deg, 20deg);
+}
+
+=> transition과 함께 사용하면 더욱 효과적임
