@@ -1,0 +1,205 @@
+2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성2-1
+css 폴더 생성
+style.css, reset.css 생성
+
+2-2
+header.css 생성
+
+2-3
+globals.css 생성
+
+2-4
+navigation.css 생성
+
+2-5
+search-bar.css 생성
+
+2-6
+friends.css 생성
