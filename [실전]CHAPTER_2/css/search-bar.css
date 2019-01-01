@@ -1,5 +1,5 @@
 .search-bar {
-  padding: 0 25px;
+  padding: 10px 25px;
   position: relative;
 }
 
@@ -24,7 +24,7 @@
 
 .search-bar i {
   position: absolute;
-  top: 5px;
+  top: 13px;
   left: 40px;
   color: #bbbbbb;
 }

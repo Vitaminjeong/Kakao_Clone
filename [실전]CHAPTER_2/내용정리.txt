@@ -203,3 +203,12 @@ search-bar.css 생성
 
 2-6
 friends.css 생성
+
+2-7
+chats.css 생성
+
+2-8
+chats.css 내용추가
+
+2-9
+find.css 생성
