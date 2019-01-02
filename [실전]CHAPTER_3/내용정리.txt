@@ -1,0 +1,11 @@
+3-1
+chat.css, search-bar.css 효과 추가
+
+3-2
+chats.css, navigation.css 효과 추가
+
+3-3
+globals.css, friends.css 효과 추가
+
+3-4
+bigScreen.css, mobile.css 생성
