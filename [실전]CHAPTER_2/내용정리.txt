@@ -212,3 +212,12 @@ chats.css 내용추가
 
 2-9
 find.css 생성
+
+2-10
+more.css 생성
+
+2-11
+profile.css 생성
+
+2-12
+chat.css 생성
